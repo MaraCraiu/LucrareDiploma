@@ -1,0 +1,93 @@
+//A
+https://en.wikipedia.org/wiki/Akita_(dog)   1
+https://en.wikipedia.org/wiki/Azawakh    2
+https://en.wikipedia.org/wiki/Afghan_Hound  3
+//B
+https://en.wikipedia.org/wiki/Bichon_Frise  4
+https://en.wikipedia.org/wiki/Boxer_(dog)   5
+https://en.wikipedia.org/wiki/Bulldog      6
+//C
+https://en.wikipedia.org/wiki/Chihuahua_(dog)     7
+https://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog     8
+https://en.wikipedia.org/wiki/Chow_Chow     9
+//D
+https://en.wikipedia.org/wiki/Dalmatian_(dog)     10
+https://en.wikipedia.org/wiki/Dobermann     11
+https://en.wikipedia.org/wiki/Dandie_Dinmont_Terrier     12
+//E
+https://en.wikipedia.org/wiki/Eurasier     13
+https://en.wikipedia.org/wiki/English_Cocker_Spaniel     14
+//F
+https://en.wikipedia.org/wiki/Fila_Brasileiro     15
+https://en.wikipedia.org/wiki/Finnish_Lapphund     16
+https://en.wikipedia.org/wiki/French_Bulldog     17
+//G
+https://en.wikipedia.org/wiki/Glen_of_Imaal_Terrier     18
+https://en.wikipedia.org/wiki/Great_Dane     19
+https://en.wikipedia.org/wiki/Golden_Retriever     20
+//H
+https://en.wikipedia.org/wiki/Harrier_(dog)     21
+https://en.wikipedia.org/wiki/Havanese_dog     22
+//I
+https://en.wikipedia.org/wiki/Ibizan_Hound     23
+https://en.wikipedia.org/wiki/Italian_Greyhound     24
+//J
+https://en.wikipedia.org/wiki/Korean_Jindo     25
+https://en.wikipedia.org/wiki/Jack_Russell_Terrier     26
+//K
+https://en.wikipedia.org/wiki/German_Shepherd#King_Shepherd     27
+https://en.wikipedia.org/wiki/Kars_dog     28
+//L
+https://en.wikipedia.org/wiki/Löwchen     29
+https://en.wikipedia.org/wiki/Labrador_Retriever     30
+//M
+https://en.wikipedia.org/wiki/Maltese_(dog) !!POZA CU JAVRELE MELE!     31
+https://en.wikipedia.org/wiki/McNab_dog     32
+//N
+https://en.wikipedia.org/wiki/New_Guinea_singing_dog     33
+https://en.wikipedia.org/wiki/Nova_Scotia_Duck_Tolling_Retriever     34
+//O
+https://en.wikipedia.org/wiki/Original_Fila_Brasileiro     35
+https://en.wikipedia.org/wiki/Olde_English_Bulldogge     36
+//P
+https://en.wikipedia.org/wiki/Pug     37
+https://en.wikipedia.org/wiki/Pomeranian_(dog)     38
+//R
+https://en.wikipedia.org/wiki/Rough_Collie     40
+https://en.wikipedia.org/wiki/Rottweiler     41
+//S
+https://en.wikipedia.org/wiki/St._Bernard_(dog)     42
+https://en.wikipedia.org/wiki/Shih_Tzu     43
+https://en.wikipedia.org/wiki/Samoyed_(dog)     44
+//T
+https://en.wikipedia.org/wiki/Thai_Ridgeback     45
+https://en.wikipedia.org/wiki/Toy_Fox_Terrier     46
+//V
+https://en.wikipedia.org/wiki/Volpino_Italiano     47
+https://en.wikipedia.org/wiki/Vizsla     48
+//W
+https://en.wikipedia.org/wiki/Weimaraner     49
+//X
+https://en.wikipedia.org/wiki/Xiasi_Dog     50
+//Y
+https://en.wikipedia.org/wiki/Yorkshire_Terrier     51
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
