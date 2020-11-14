@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+}
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 5px;
+  height: 100px;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  font-family: Copperplate;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 7%;
+  height: 630px; /* only for demonstration, should be removed */
+  background: #ccc;
+  padding: 20px;
+}
+/* Clear floats after the columns */
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 10px;
+}
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 10px) {
+  nav, article {
+    width: 5%;
+    height: 1000%;
+  }
+}
+article {
+  float: left;
+  padding: 315px;
+  width: 93%;
+  font-size: 20px;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Anatomie</h1>
+</header>
+
+<section>
+  <nav>	
+		<p><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/acasa.html>Acasa</a></p>
+    		<p><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/anatomie.html>Anatomie</a></p>
+		<h3>Tipuri de rase</h3>
+		<ul>
+   			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/a/a.html>A</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/b/b.html>B</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/c/c.html>C</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/d/d.html>D</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/e/e.html>E</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/f/f.html>F</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/g/g.html>G</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/h/h.html>H</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/i/i.html>I</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/j/j.html>J</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/k/k.html>K</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/l/l.html>L</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/m/m.html>M</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/n/n.html>N</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/o/o.html>O</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/p/p.html>P</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/r/r.html>R</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/s/s.html>S</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/t/t.html>T</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/v/v.html>V</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/w/w.html>W</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/x/x.html>X</a></li>
+			<li><a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Litere/y/y.html>Y</a></li>
+			
+  		</ul>
+	</nav>
+  
+ <aside>
+    <h1>London</h1>
+
+    <p>Împăratul Verde nu are moştenitori şi îi cere fratelui său să i-l trimită pe cel mai vrednic dintre cei trei fii ai săi, căruia să îi lase împărăţia. Fiul cel mare şi cel mijlociu se oferă pe rând dar se întorc umiliţi din drum după ce le iese un urs în cale. Fiul cel mic nu vrea să îşi dezamăgească tatăl şi, la sfaturile unei bătrâne gârbovite (Sfânta Duminică), îi cere hainele, armele şi calul pe care le-a folosit tatăl în tinereţe. Bătrâna îl învaţă pe fiul cel mic cum să îşi aleagă calul: să ducă o tavă cu jăratic în grajd şi să îl aleagă pe cel care va veni să mănânce. Aparent o mârţoagă bătrână, calul care mănâncă jăratic se dovedeşte a fi un armăsar înzestrat cu darul vorbirii şi al zborului. Când să pornească la drum şi fiului cel mic îi iese în cale ursul fioros, care se dovedeşte a fi tatăl deghizat. Mezinul trece testul tatălui, care îi oferă blana de urs şi un sfat important: să se ferească de omul spân şi de omul roş, însă tocmai această învăţătură nu o va putea urma personajul principal: refuză de două ori ajutorul Spânului dar a treia oară, rătăcindu-se în pădure, este nevoit să îl accepte. Spânul îl păcăleşte, îl obligă să devină slujitorul său, numindu-l Harap-Alb, iar el se dă drept nepotul Împăratului Verde. Ajungând în sfârşit în împărăţia acestuia, Spânul încearcă să scape de Harap-Alb, trimiţându-l în misiuni periculoase. Cu ajutorul calului său dar şi al Sfintei Duminici, Harap-Alb reuşeşte să fure salatele din grădina Ursului şi să ucidă cerbul cu diamante încrustate în piele. O ultimă misiune este aceea de a o aduce pe fata Împăratului Roş. Pe drum alege să cruţe o nuntă de furnici şi să ajute un roi de albine. Ca mulţumire pentru bunătatea sa insectele se oferă să îl ajute: îi dăruiesc câte o aripă pe care va trebui să o ardă când va avea nevoie de ele. De asemenea, se întâlneşte cu Gerilă, Fomilă, Setilă, Ochilă şi Păsări-Lăţi-Lungilă, pe care îi ia cu el spre tărâmul Împăratului Roş. Ajunşi acolo trebuie să treacă de anumite probe în care talentele noilor prieteni se dovedesc necesare: să doarmă într-o casă foarte fierbinte, să mănânce şi să bea cantităţi uriaşe de mâncare şi vin, să aleagă macul din nisip (unde îl vor ajuta furnicile), să păzească pe fata Împăratului peste noapte, să o deosebească faţă de sora ei vitregă, ce îi semăna foarte mult (unde îl va ajuta regina albinelor). O ultimă probă este propusă chiar de fata Împăratului Roş: o întrecere între turturica ei şi calul lui Harap-Alb după trei smicele de măr dulce, apă vie şi apă moartă. Calul reuşeşte să îndeplinească şi această ultimă condiţie aşa că Împăratul Roş este nevoit să i-o dea pe fiica sa lui Harap-Alb. Pe drumul înapoi cei doi se îndrăgostesc, fata dă în vileag secretul Spânului şi le spune tuturor că Harap-Alb este adevăratul nepot al Împăratului Verde. Spânul îi retează capul lui Harap-Alb, calul îl omoară pe Spân iar fata Împăratului Roş se foloseşte de smicelele de măr dulce, de apa vie şi apa moartă pentru a îl readuce la viaţă pe iubitul ei. În final se căsătoresc, rămân moştenitori peste împărăţia unchiului şi petrec fericiţi până în momentul de faţă.</p>
+    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+ 
+</aside>
+</section>
+
+<footer>
+  <p>Footer</p>
+</footer>
+
+</body>
+</html>
