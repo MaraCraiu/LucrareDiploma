@@ -35,8 +35,8 @@ https://en.wikipedia.org/wiki/Italian_Greyhound     24
 https://en.wikipedia.org/wiki/Korean_Jindo     25
 https://en.wikipedia.org/wiki/Jack_Russell_Terrier     26
 //K
-https://en.wikipedia.org/wiki/German_Shepherd#King_Shepherd     27
-https://en.wikipedia.org/wiki/Kars_dog     28
+https://en.wikipedia.org/wiki/Komondor     27
+https://en.wikipedia.org/wiki/Kuvasz    28
 //L
 https://en.wikipedia.org/wiki/Löwchen     29
 https://en.wikipedia.org/wiki/Labrador_Retriever     30
