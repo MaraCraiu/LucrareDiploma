@@ -61,16 +61,15 @@ https://en.wikipedia.org/wiki/Shih_Tzu     43
 https://en.wikipedia.org/wiki/Samoyed_(dog)     44
 //T
 https://en.wikipedia.org/wiki/Thai_Ridgeback     45
-https://en.wikipedia.org/wiki/Toy_Fox_Terrier     46
 //V
-https://en.wikipedia.org/wiki/Volpino_Italiano     47
-https://en.wikipedia.org/wiki/Vizsla     48
+https://en.wikipedia.org/wiki/Volpino_Italiano     46
+https://en.wikipedia.org/wiki/Vizsla     47
 //W
-https://en.wikipedia.org/wiki/Weimaraner     49
+https://en.wikipedia.org/wiki/Weimaraner     48
 //X
-https://en.wikipedia.org/wiki/Xiasi_Dog     50
+https://en.wikipedia.org/wiki/Xiasi_Dog     49
 //Y
-https://en.wikipedia.org/wiki/Yorkshire_Terrier     51
+https://en.wikipedia.org/wiki/Yorkshire_Terrier     50
 
 
 
