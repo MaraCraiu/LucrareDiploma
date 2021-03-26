@@ -1,103 +1,104 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wikipedia Cainilor</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="topnav">
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/acasa.html class="button">Acasa</a>
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/anatomie.html class="button">Anatomie</a>
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/rase.html class="button active">Rase</a>
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/contact.html class="button">Contact</a>
+<a href="acasa.php" class="button">Acasa</a>
+<a href="anatomie.php" class="button">Anatomie</a>
+<a href="rase.php" class="button active">Rase</a>
+<a href="contact.php" class="button">Contact</a>
 <input type="text" placeholder="Search..">
 </div>
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Afghan_Hound>
+  <a href=http://info.tm.edu.ro:8088/~mguduleasa/LucrareDiploma/Rase/Afghan_Hound.php>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Afghan Hound.jpg" alt="Afghan Hound">
   </a>
   <div class="desc">Afghan Hound</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="https://en.wikipedia.org/wiki/Akita_(dog)">
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Akita.html>
     <img src="\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\akita inu.jpg" alt="Akita">
   </a>
   <div class="desc">Akita</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Azawakh>
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Azawakh.html>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Azawakh.jpg" alt="Azawakh">
   </a>
   <div class="desc">Azawakh</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Bichon_Frise>
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Bichon_Frise.html>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Bichon Frise.jpg" alt="Bichon Frise">
   </a>
   <div class="desc">Bichon Frise</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Boxer_(dog)>
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Boxer.html>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Boxer.jpg" alt="Boxer">
   </a>
   <div class="desc">Boxer</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Bulldog>
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Bulldog.html>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Bulldog.jpg" alt="Bulldog">
   </a>
   <div class="desc">Bulldog</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Chihuahua_(dog)>
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Chiuhuahua.html>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Chihuahua.jpg" alt="Chihuahua">
   </a>
   <div class="desc">Chihuahua</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Chow_Chow >
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Chow_Chow.html>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Chow Chow.jpg" alt="Chow Chow">
   </a>
   <div class="desc">Chow Chow</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog >
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Czechoslovakian.html>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Czechoslovakian Wolfdog.jpg" alt="Czechoslovakian Wolfdog">
   </a>
   <div class="desc">Czechoslovakian Wolfdog</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Dalmatian_(dog)>
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Dalmatian.html>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Dalmatian.jpg" alt="Dalmatian">
   </a>
   <div class="desc">Dalmatian</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Dandie_Dinmont_Terrier>
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Dandie.html>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Dandie Dinmont Terrier.jpg" alt="Dandie Dinmont Terrier">
   </a>
   <div class="desc">Dandie Dinmont Terrier</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Dobermann>
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Dobermann.html>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Dobermann.jpg" alt="Dobermann">
   </a>
   <div class="desc">Dobermann</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/English_Cocker_Spaniel>
+  <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/English_Cocker.html>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\English Cocker Spaniel.jpg" alt="English Cocker Spaniel">
   </a>
   <div class="desc">English Cocker Spaniel</div>
@@ -261,6 +262,13 @@
 </div>
 
 <div class="gallery">
+  <a target="_blank" href=https://en.wikipedia.org/wiki/Olde_English_Bulldogge >
+    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Olde English Bulldogge.jpg" alt="Olde English Bulldogge">
+  </a>
+  <div class="desc">Olde English Bulldogge</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href=https://en.wikipedia.org/wiki/Original_Fila_Brasileiro  >
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Original Fila Brasileiro.png" alt="Original Fila Brasileiro">
   </a>
@@ -268,10 +276,10 @@
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Olde_English_Bulldogge >
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Olde English Bulldogge.jpg" alt="Olde English Bulldogge">
+  <a target="_blank" href=https://en.wikipedia.org/wiki/Pomeranian_(dog) >
+    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Pomeranian.jpg" alt="Pomeranian">
   </a>
-  <div class="desc">Olde English Bulldogge</div>
+  <div class="desc">Pomeranian</div>
 </div>
 
 <div class="gallery">
@@ -282,21 +290,6 @@
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Pomeranian_(dog) >
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Pomeranian.jpg" alt="Pomeranian">
-  </a>
-  <div class="desc">Pomeranian</div>
-</div>
-
-
-<div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Rough_Collie >
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Rough Collie.jpg" alt="Rough Collie">
-  </a>
-  <div class="desc">Rough Collie</div>
-</div>
-
-<div class="gallery">
   <a target="_blank" href=https://en.wikipedia.org/wiki/Rottweiler >
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Rottweiler.jpg" alt="Rottweiler">
   </a>
@@ -304,17 +297,10 @@
 </div>
 
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Shih_Tzu >
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\St. Bernard (dog).jpg" alt="St. Bernard (dog)">
+  <a target="_blank" href=https://en.wikipedia.org/wiki/Rough_Collie >
+    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Rough Collie.jpg" alt="Rough Collie">
   </a>
-  <div class="desc">St. Bernard</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/St._Bernard_(dog) >
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Shih Tzu.jpg" alt="Shih Tzu">
-  </a>
-  <div class="desc">Shih Tzu</div>
+  <div class="desc">Rough Collie</div>
 </div>
 
 <div class="gallery">
@@ -325,17 +311,32 @@
 </div>
 
 <div class="gallery">
+  <a target="_blank" href=https://en.wikipedia.org/wiki/St._Bernard_(dog) >
+    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Shih Tzu.jpg" alt="Shih Tzu">
+  </a>
+  <div class="desc">Shih Tzu</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href=https://en.wikipedia.org/wiki/Shih_Tzu >
+    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\St. Bernard (dog).jpg" alt="St. Bernard (dog)">
+  </a>
+  <div class="desc">St. Bernard</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href=https://en.wikipedia.org/wiki/Thai_Ridgeback>
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Thai Ridgeback.jpg" alt="Thai Ridgeback">
   </a>
   <div class="desc">Thai Ridgeback</div>
 </div>
 
+
 <div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Toy_Fox_Terrier>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Toy Fox Terrier.jpg" alt="Toy Fox Terrier">
+  <a target="_blank" href=https://en.wikipedia.org/wiki/Vizsla>
+    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Vizsla.jpg" alt="Vizsla">
   </a>
-  <div class="desc">Toy Fox Terrier</div>
+  <div class="desc">Vizsla</div>
 </div>
 
 <div class="gallery">
@@ -343,13 +344,6 @@
     <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Volpino Italiano.jpg" alt="Volpino Italiano">
   </a>
   <div class="desc">Volpino Italiano</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href=https://en.wikipedia.org/wiki/Vizsla>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Vizsla.jpg" alt="Vizsla">
-  </a>
-  <div class="desc">Vizsla</div>
 </div>
 
 <div class="gallery">

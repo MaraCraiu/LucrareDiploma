@@ -8,14 +8,14 @@
 
 <div class="topnav">
 
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/acasa.html class="button">Acasa</a>
+<a href="acasa.php" class="button">Acasa</a>
 
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/anatomie.html class="button active">Anatomie</a>
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/sistemelecorpului.html class="button">Sistemele Corpului</a>
+<a href="anatomie.php" class="button active">Anatomie</a>
 
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/rase.html class="button">Rase</a>
 
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/contact.html class="button">Contact</a>\
+<a href="rase.php" class="button">Rase</a>
+
+<a href="contact.php" class="button">Contact</a>\
 
 <input type="text" placeholder="Search..">
 
