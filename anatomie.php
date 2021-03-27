@@ -15,7 +15,7 @@
 
 <a href="rase.php" class="button">Rase</a>
 
-<a href="contact.php" class="button">Contact</a>\
+<a href="contact.php" class="button">Contact</a>
 
 <input type="text" placeholder="Search..">
 

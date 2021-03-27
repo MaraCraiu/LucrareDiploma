@@ -1,5 +1,5 @@
 <?php
- require 'connect.php';
+ require 'conectare.php';
 if (!empty($_POST['parere']) && isset($_POST['parere'])) {
 
 	$email = $_POST['email'];

@@ -15,21 +15,21 @@
 </div>
 <div class="gallery">
   <a href=http://info.tm.edu.ro:8088/~mguduleasa/LucrareDiploma/Rase/Afghan_Hound.php>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Afghan Hound.jpg" alt="Afghan Hound">
+    <img src="poze caini\Afghan Hound.jpg" alt="Afghan Hound">
   </a>
   <div class="desc">Afghan Hound</div>
 </div>
 
 <div class="gallery">
   <a href=http://info.tm.edu.ro:8088/~mguduleasa/LucrareDiploma/Rase/Chow_Chow.php>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Chow Chow.jpg" alt="Afghan Hound">
+    <img src="poze caini\Chow Chow.jpg" alt="Afghan Hound">
   </a>
   <div class="desc">Chow_Chow</div>
 </div>
 
 <div class="gallery">
   <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Dalmatian.html>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Dalmatian.jpg" alt="Dalmatian">
+    <img src="poze caini\Dalmatian.jpg" alt="Dalmatian">
   </a>
   <div class="desc">Dalmatian</div>
 </div>
@@ -38,7 +38,7 @@
 
 <div class="gallery">
   <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Dobermann.html>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Dobermann.jpg" alt="Dobermann">
+    <img src="poze caini\Dobermann.jpg" alt="Dobermann">
   </a>
   <div class="desc">Dobermann</div>
 </div>
@@ -47,7 +47,7 @@
 
 <div class="gallery">
   <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Golden_Retriever.html>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Golden Retriever.jpg" alt="Golden Retriever">
+    <img src="poze caini\Golden Retriever.jpg" alt="Golden Retriever">
   </a>
   <div class="desc">Golden Retriever</div>
 </div>
@@ -59,7 +59,7 @@
 
 <div class="gallery">
   <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Labrador.html>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Labrador Retriever.jpg" alt="Labrador Retriever">
+    <img src="poze caini\Labrador Retriever.jpg" alt="Labrador Retriever">
   </a>
   <div class="desc">Labrador Retriever</div>
 </div>
@@ -67,7 +67,7 @@
 
 <div class="gallery">
   <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Maltese.html>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Maltese.jpg" alt="Maltese">
+    <img src="poze caini\Maltese.jpg" alt="Maltese">
   </a>
   <div class="desc">Maltese</div>
 </div>
@@ -76,21 +76,21 @@
 
 <div class="gallery">
   <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Pug.html>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Pug.jpg" alt="Pug">
+    <img src="poze caini\Pug.jpg" alt="Pug">
   </a>
   <div class="desc">Pug</div>
 </div>
 
 <div class="gallery">
   <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Rottweiler.html>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Rottweiler.jpg" alt="Rottweiler">
+    <img src="poze caini\Rottweiler.jpg" alt="Rottweiler">
   </a>
   <div class="desc">Rottweiler</div>
 </div>
 
 <div class="gallery">
   <a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/Rase/Yorkshire_Terrier.html>
-    <img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\Yorkshire Terrier.jpg" alt="Yorkshire Terrier">
+    <img src="poze caini\Yorkshire Terrier.jpg" alt="Yorkshire Terrier">
   </a>
   <div class="desc">Yorkshire Terrier</div>
 </div>
