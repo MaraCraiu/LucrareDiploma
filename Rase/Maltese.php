@@ -19,7 +19,81 @@
 <input type="text" placeholder="Search..">
 </div>
 <style>
+body.home { 
+  background: url("2wall.jpg") no-repeat center fixed; 
+  background-size: cover;
+}
+body {
+    background-color: peachPuff;
+}
+a.button:link, a:visited {
+  background-color: firebrick;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a.button:hover, a:active {
+  background-color: black;
+}
+.topnav {
+  overflow: hidden;
+  background-color: firebrick;;
+}
+.topnav a.active {
+  background-color: black;
+  color: white;
+}
 
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+/* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
+@media screen and (max-width: 600px) {
+  .topnav a, .topnav input[type=text] {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
+}
+div.gallery {
+  margin-left: 7px;
+  margin-right: 7px;
+  margin-top:7px;
+  margin-bottom:7px;
+  border: 1px solid firebrick;
+  float: left;
+}
+
+div.gallery:hover {
+  border: 1px solid black;
+  background-color: firebrick;
+  color:white;
+}
+
+div.gallery img {
+  width: 230px;
+  height: 170px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
 #h1
 {   
     text-decoration:underline;
@@ -106,7 +180,8 @@
 
 <h id="h1"><center>Bichon maltez</center></h>
 
-<div class="i" id="im1"><img src="poze caini\Maltese.jpg" style=width=500px; height=400px;> </div>
+<div class="i" id="im1" ><img src=https://www.animalepierdute.ro/wp-content/uploads/2019/06/Un-b%C4%83ie%C5%A3el-Maltez-300x200.jpg style=width=400px; height=300px;> </div>
+
 
 <p id="p">Bichon maltez este una dintre cele mai vechi rase de câini. 
 Majoritatea cred că această rasă are originea în insula Malta, deși originile acestei rase nu sunt stabilite.
@@ -128,7 +203,7 @@ apreciat de doamnele din rândul nobilimii în jurul anilor 1800. Datorită dime
 de această dată sub denumirea de Maltese Skye Terrier, deși nu este un câine terrier. În cele din urmă, 
 rasa a fost acceptată în grupa raselor de companie a American Kennel Club ca și Maltese în 1888.</p>
 
-<div id="im2"><img src="poze caini\maltez.jpg " width=400px; height=300px;> </div>
+<div id="im2"><img src=https://www.animalepierdute.ro/wp-content/uploads/2019/06/Un-Bichon-Maltez-ar%C4%83tos-pus-pe-har%C5%A3%C4%83-300x200.jpg width=400px; height=300px;> </div>
 
 <li id="l2">Descriere</li>
 <div class="row">
@@ -151,7 +226,7 @@ rasa a fost acceptată în grupa raselor de companie a American Kennel Club ca �
 </div>
 </div>
 
-<div id="im1"><img src="poze caini\maltez3.jpg" width=400px; height=300px;> </div>
+<div id="im1"><img src=https://www.animalepierdute.ro/wp-content/uploads/2019/06/Un-pui%C5%9For-de-Bichon-Maltez-%C3%AEn-timp-ce-se-joac%C4%83-%C5%9Fi-alearg%C4%83-200x300.jpg width=300px; height=300px;> </div>
 
 <li id="l1">Personalitate</li>
 <p id="p">Bichonul Maltez este câinele perfect în momentul în care doriți să scăpați de stresul unei zile agitate. Jucăuș, plin de viață și extrem de grațios, acesta este foarte iubitor cu stăpânul și adoră să fie ținut în brațe.
@@ -165,7 +240,7 @@ pune în alertă stăpânul.
 Poate fi chiar gelos în momentul în care simte că atenția stăpânului său se îndreaptă prea mult spre altcineva.
 Totuși, încercați să nu-l alintați prea mult, pentru că va deveni răsfățat și va avea tendința de a face doar ceea ce își dorește. Chiar dacă veţi fi tot timpul tentaţi să-l iubiţi, să îl mângăiaţi, încercaţi să vă înfrânaţi acest obicei, totul pentru sănătatea sa fizică şi psihică.</p>
 
-<div id="im2"><img src="poze caini\maltez4.jpg" width=400px; height=300px;> </div>
+<div id="im2"><img src=https://www.animalepierdute.ro/wp-content/uploads/2019/06/Un-puiu%C5%A3-de-Bichon-Maltez-253x300.jpg width=400px; height=300px;> </div>
 
 <li id="l2">Problemele de sănătate</li>
 <p id="p">Asociația americană a Bichonului Maltese recomandă să nu iei un cățeluș sub vârsta de 12 săptămâni pentru că poate deveni stresat din cauza manipulării frecvente și nu va avea suficient timp să se odihnească sau va refuza să mănânce din cauza schimbării mediului/mâncării. Acest stres poate cauza hipoglicemie ce duce la o posibilă comă. Este recomandat ca odată cu câinele, ar trebui să primiți un certificat cu starea actuală a Bichonul-ui maltez și înregistrarea vaccinurilor.

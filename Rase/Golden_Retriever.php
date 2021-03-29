@@ -19,7 +19,81 @@
 <input type="text" placeholder="Search..">
 </div>
 <style>
+body.home { 
+  background: url("2wall.jpg") no-repeat center fixed; 
+  background-size: cover;
+}
+body {
+    background-color: peachPuff;
+}
+a.button:link, a:visited {
+  background-color: firebrick;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a.button:hover, a:active {
+  background-color: black;
+}
+.topnav {
+  overflow: hidden;
+  background-color: firebrick;;
+}
+.topnav a.active {
+  background-color: black;
+  color: white;
+}
 
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+/* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
+@media screen and (max-width: 600px) {
+  .topnav a, .topnav input[type=text] {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
+}
+div.gallery {
+  margin-left: 18px;
+  margin-right: 7px;
+  margin-top:15px;
+  margin-bottom:20px;
+  border: 1px solid firebrick;
+  float: left;
+}
+
+div.gallery:hover {
+  border: 1px solid black;
+  background-color: firebrick;
+  color:white;
+}
+
+div.gallery img {
+  width: 230px;
+  height: 170px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
 #h1
 {   
     text-decoration:underline;
