@@ -8,14 +8,10 @@
 </head>
 <body>
 <div class="topnav">
-<a href="acasa.php" class="button">Acasa</a>
-
-<a href="anatomie.php" class="button active">Anatomie</a>
-
-
-<a href="rase.php" class="button">Rase</a>
-
-<a href="contact.php" class="button">Contact</a>
+<a href="http://info.tm.edu.ro:8088/~mcraiu/acasa.php" class="button">Acasa</a>
+<a href="http://info.tm.edu.ro:8088/~mcraiu/anatomie.php" class="button">Anatomie</a>
+<a href="http://info.tm.edu.ro:8088/~mcraiu/rase.php" class="button">Rase</a>
+<a href="http://info.tm.edu.ro:8088/~mcraiu/contact.php" class="button">Contact</a>
 <input type="text" placeholder="Search..">
 </div>
 <style>
@@ -180,14 +176,14 @@ div.desc {
 
 <h id="h1"><center> Dalmațian </center></h>
 
-<div class="i" id="im1"><img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\dalmatian1.jpg" style=width=500px; height=400px;> </div>
+<div class="i" id="im1"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/dalmatian1.jpg" style=width=500px; height=400px;> </div>
 
 <p id="p">Dalmațienii sunt o rasă de câini mari, cunoscuți pentru aspectul lor, fiind de culoare albă cu pete negre. Sunt originari din Dalmația (Croația). Câini foarte asemănători din punct de vedere fizic se regăsesc în unele basoreliefuri de pe monumente din Egipt, ei fiind surprinși în postura de însoțitori ai carelor de luptă. De asemenea, unele fresce provenind din vechile cetăți grecești răspândite în sud-estul bazinului mediteraneean redau imagini veridice ale acestor câini. Specialiștii sprijină teoria conform căreia câinii din rasa Dalmațian au ajuns în Europa venind din Egipt, prin Orientul Apropiat și actualul teritoriu al Turciei.</p>
 
 <li id="l1">Istorie</li>
 <p id="p">Strămoșii acestor câini și-au făcut apariția pe coasta Dalmației (Marea Adriatică) odată cu dezvoltarea primelor colonii grecești. Documente datate 1374 descriu acești câini ca populând cetatea Dubrovnik, unde erau folosiți la vânătoare, pentru aret. Există și o altă teorie conform căreia Dalmațianul provine din încrucișări ce au avut loc între o rasă denumită Pointer Istrian și Bull Terrier, iar originea îndepărtată a rasei ar fi Bracul de Bengal. Câinii din aceasta rasă au fost definitiv dezvoltați și aduși la standardul actual în Anglia, la începutul secolului al XIX-lea. În societatea engleză ei erau folosiți cu precădere ca însoțitori ai trăsurilor (poștalioanelor, având însărcinarea de a păzi bagajele călătorilor pe timpul escalelor), ca și câini-mascotă pentru pompieri, câini de circ și chiar câini în serviciul armatei. Încă de la început acești câini au fost capabili să dezvolte o relație specială cu caii, pentru care încă prezintă o afinitate greu de explicat.</p>
 
-<div id="im2"><img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\dalmatian2.jpg" width=400px; height=300px;> </div>
+<div id="im2"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/dalmatian2.jpg" width=400px; height=300px;> </div>
 
 <li id="l2">Descriere</li>
 <div class="row">
@@ -209,12 +205,12 @@ div.desc {
 </div>
 </div>
 
-<div id="im1"><img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\dalmatian3.jpg" width=400px; height=270px;> </div>
+<div id="im1"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/dalmatian3.jpg" width=400px; height=270px;> </div>
 
 <li id="l1">Personalitate</li>
 <p id="p">Este un câine plin de energie, vesel și cu chef de joacă. Își protejează stăpânii, este afectuos și loial și nu vrea să stea singur, pentru că va avea tendința de a deveni distructiv. În schimb, nu-i plac persoanele străine, față de care va avea o atitudine reticentă. Totuși, dacă se obișnuiește cu o persoană și o și place, va deveni foarte sociabil. Sunt câini inteligenți și cu o memorie excelentă, așa că dacă cineva se poartă urât cu ei, Dalmațienii vor ține minte și după ani de zile. Este valabil și în cazul în care se atașează de o persoană: dacă o vor revedea după o lungă perioadă de timp, vor fi foarte afectuoși cu ea. Dalmațianul are o relație foarte bună cu copiii, dar trebuie să fiți atenți și să nu-l lăsați lângă cei de vârstă prea mică, pentru că îi poate răni fără să vrea. Îi place să latre puternic și va avea tendința să domine în relația cu alți câini, mai ales dacă sunt masculi. Se înțelege bine cu alte animale de companie, în special dacă este vorba despre cai.</p>
 
-<div id="im2"><img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\dalmatian4.jpg" width=400px; height=300px;> </div>
+<div id="im2"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/dalmatian4.jpg" width=400px; height=300px;> </div>
 
 <li id="l2">Problemele de sănătate</li>
 <p id="p">Blana subțire nu-i protejează suficient împotriva frigului, fapt ce vine în sprijinul teoriei că rasa a luat naștere și s-a dezvoltat inițial în zone cu climat mai blând. În plus, acești câini năpârlesc destul de consistent pe toată durata anului. Numeroase exemplare au o piele solzoasă, care se usucă ușor și se exfoliază, producând o mătreață abundentă, mai ales pe timpul lunilor de iarnă, când umiditatea atmosferei este mai scăzută. Urechile Dalmațienilor sunt subțiri și prea puțin vascularizate, de aceea în iernile geroase acestea le pot degera ușor. Un procent ridicat dintre Dalmațieni (10-12 %) suferă de surditate (unilaterală sau bilaterală), ca urmare a coloritului alb predominant. ALte afecțiuni specifice rasei: complicațiile renale (pietre la rinichi), alergii ale pielii, alopecie, tendința spre obezitate. Sunt câini bine adaptați traiului în aer liber pe parcursul sezoanelor mai călduroase, iarna au nevoie de o protecție termică specială, astfel că trebuie primiți în casă (în nopțile foarte reci) sau să primească o cușcă bine protejată împotriva frigului, pentru a nu se îmbolnăvi. Pot fi educați să trăiască și preponderent în interior, dacă beneficiază de un dresaj adecvat și de un program de mișcare bogat și variat.</p>

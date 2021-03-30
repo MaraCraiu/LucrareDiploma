@@ -181,9 +181,7 @@ div.desc {
 <p id="p">Akita Inu este o rasă de câini originară din insula Honshu. Numele este împrumutat de la cel al prefecturii Akita, situată în partea de nord-vest, unde s-a stabilit că au apărut primele exemplare, prin secolul al XVII-lea, create în scopul participării la vânătoarea de urși, mistreți și alte animale mari.</p>
 
 <li id="l1">Istorie</li>
-<p id="p">Un film frumos cu un achita inu dragalas se numeste Hachiko. Conform tradiției încă menținută în Japonia, Akita Inu descind din legendarii câini de rasa Matagi. Analizele ADN îi plasează printre cele 14 cele mai vechi rase de câini domesticiți, deținători ai „genei ancestrale” a lupilor străvechi. De-a lungul timpului rasa a avut mai multe întrebuințări în țara natală, fiind, pe lângă asistent la vânătorile de cerbi și urși, câine de pază al reședințelor nobiliare, câine de luptă, animal de tracțiune pentru sanie și în serviciul forțelor de ordine/armatei. Akita Inu se bucură de o imensă popularitate în Japonia, unde sunt considerați simbol național. Rasa este inclusă în lista celor șapte monumente ale naturii. </p>
-
-<p id="p">Japonezii îi consideră cei mai loiali companioni și protectori ai casei. Akita Inu simbolizează prosperitatea și sănătatea. Există chiar și acum tradiția ca, la nașterea unui copil, părinții să primească în dar mici statuete reprezentând un Akita Inu, în semn de sănătate, fericire și viață îndelungată. De asemenea, cei aflați pe patul de suferință primesc același dar de la prieteni și cunoscuți. Rasa a fost adusă în Statele Unite în anul 1937 de către Helen Keller, dar cele mai multe exemplare au pătruns în SUA după Cel De-al Doilea Razboi Mondial, când numeroși soldați americani cantonați în Japonia s-au întors acasă ducând acești câini cu ei.</p>
+<p id="p">Un film frumos cu un achita inu dragalas se numeste Hachiko. Conform tradiției încă menținută în Japonia, Akita Inu descind din legendarii câini de rasa Matagi. Analizele ADN îi plasează printre cele 14 cele mai vechi rase de câini domesticiți, deținători ai „genei ancestrale” a lupilor străvechi. De-a lungul timpului rasa a avut mai multe întrebuințări în țara natală, fiind, pe lângă asistent la vânătorile de cerbi și urși, câine de pază al reședințelor nobiliare, câine de luptă, animal de tracțiune pentru sanie și în serviciul forțelor de ordine/armatei. Akita Inu se bucură de o imensă popularitate în Japonia, unde sunt considerați simbol național. Rasa este inclusă în lista celor șapte monumente ale naturii. Japonezii îi consideră cei mai loiali companioni și protectori ai casei. Akita Inu simbolizează prosperitatea și sănătatea. Există chiar și acum tradiția ca, la nașterea unui copil, părinții să primească în dar mici statuete reprezentând un Akita Inu, în semn de sănătate, fericire și viață îndelungată. De asemenea, cei aflați pe patul de suferință primesc același dar de la prieteni și cunoscuți. Rasa a fost adusă în Statele Unite în anul 1937 de către Helen Keller, dar cele mai multe exemplare au pătruns în SUA după Cel De-al Doilea Razboi Mondial, când numeroși soldați americani cantonați în Japonia s-au întors acasă ducând acești câini cu ei.</p>
 
 <div id="im2"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/akitainu2.jpg" width=400px; height=300px;> </div>
 
@@ -210,9 +208,7 @@ div.desc {
 <div id="im1"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/akitainu3.jpg" width=400px; height=300px;> </div>
 
 <li id="l1">Personalitate</li>
-<p id="p">Akita Inu este un câine inteligent și devotat stăpânului, însă trebuie avută mare grijă atunci când se află în preajma copiilor. Își schimbă foarte repede comportamentul și în cazul în care ceva îl deranjează, poate reacționa destul de agresiv. În schimb, dacă cei mici nu îl necăjesc, Akita devine foarte protector cu ei. Dar are nevoie de atenţia voastră în permanenţă.</p>
-
-<p id="p">Este jucăuș, mai ales cu persoanele pe care le cunoaște, dar devine rezervat și neîncrezător atunci când intră în contact cu străini.</p>
+<p id="p">Akita Inu este un câine inteligent și devotat stăpânului, însă trebuie avută mare grijă atunci când se află în preajma copiilor. Își schimbă foarte repede comportamentul și în cazul în care ceva îl deranjează, poate reacționa destul de agresiv. În schimb, dacă cei mici nu îl necăjesc, Akita devine foarte protector cu ei. Dar are nevoie de atenţia voastră în permanenţă. Este jucăuș, mai ales cu persoanele pe care le cunoaște, dar devine rezervat și neîncrezător atunci când intră în contact cu străini.</p>
 
 <p id="p">În plus, are nevoie de plimbări lungi, pentru a nu se plictisi. În cazul în care se plictisește, poate distruge curtea sau camera în care este ținut.</p>
 
@@ -221,11 +217,8 @@ div.desc {
 <div id="im2"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/akitainu4.jpg" width=400px; height=300px;> </div>
 
 <li id="l2">Problemele de sănătate</li>
-<p id="p">Akita Inu este una dintre cele mai vechi 14 rase de câini care au fost domesticite. În Japonia, este considerat simbol național și face parte din cele șapte monumente ale naturii în această țară.</p>
-<p id="p">Este un câine de talie mare, cu capul lat, are o scobitură în mijlocul frunții, iar maxilarul este puternic. Nasul este negru, ochii sunt mici și închiși la culoare, iar urechile de asemenea sunt mici, triunghiulare și rotunjite la vârf.</p>
-<p id="p">Deseori acest câine obișnuiește să își facă singur toaleta, precum pisicile. Cea mai întâlnită cauză a mortalității la acești câini este cancerul. În timpul vieții această rasă este predispusă la boli precum displazia de șold, probleme cu ochii, lupus sau hipotiroidism. Fiind un câine de talie medie-mare, cu piept adânc, este supus riscului dilatației și torsiunii gastrice.</p> 
-
-<p id="p">Este un câine rezistent la intemperii, se simte bine în aer liber. Preferă să trăiască într-o curte mare, bine împrejmuită, are nevoie de mișcare, exerciții, plimbări, alergări, înot.</p>
+<p id="p">Akita Inu este una dintre cele mai vechi 14 rase de câini care au fost domesticite. În Japonia, este considerat simbol național și face parte din cele șapte monumente ale naturii în această țară. Este un câine de talie mare, cu capul lat, are o scobitură în mijlocul frunții, iar maxilarul este puternic. Nasul este negru, ochii sunt mici și închiși la culoare, iar urechile de asemenea sunt mici, triunghiulare și rotunjite la vârf.</p>
+<p id="p">Deseori acest câine obișnuiește să își facă singur toaleta, precum pisicile. Cea mai întâlnită cauză a mortalității la acești câini este cancerul. În timpul vieții această rasă este predispusă la boli precum displazia de șold, probleme cu ochii, lupus sau hipotiroidism. Fiind un câine de talie medie-mare, cu piept adânc, este supus riscului dilatației și torsiunii gastrice. Este un câine rezistent la intemperii, se simte bine în aer liber. Preferă să trăiască într-o curte mare, bine împrejmuită, are nevoie de mișcare, exerciții, plimbări, alergări, înot.</p>
 
 
 

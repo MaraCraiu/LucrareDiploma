@@ -8,10 +8,11 @@
 </head>
 <body>
 <div class="topnav">
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/acasa.php class="button">Acasa</a>
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/anatomie.php class="button">Anatomie</a>
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/rase.php class="button">Rase</a>
-<a href=file:///C:/Users/marru/Documents/Scoala/Info/LucrareDiploma/contact.php class="button">Contact</a><input type="text" placeholder="Search..">
+<a href="http://info.tm.edu.ro:8088/~mcraiu/acasa.php" class="button">Acasa</a>
+<a href="http://info.tm.edu.ro:8088/~mcraiu/anatomie.php" class="button">Anatomie</a>
+<a href="http://info.tm.edu.ro:8088/~mcraiu/rase.php" class="button">Rase</a>
+<a href="http://info.tm.edu.ro:8088/~mcraiu/contact.php" class="button">Contact</a>
+<input type="text" placeholder="Search..">
 </div>
 <style>
 body.home { 
@@ -175,7 +176,7 @@ div.desc {
 
 <h id="h1"><center> Chow Chow </center></h>
 
-<div class="i" id="im1"><img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\chowchow1.jpg" style=width=500px; height=400px;> </div>
+<div class="i" id="im1"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/chowchow1.jpg" style=width=500px; height=400px;> </div>
 
 <p id="p">Chow chow este o rasă de câini care se încadrează raselor de talie medie având o descendență foarte veche, fiind originar din China. Poate fi recunoscut după aspectul pufos, limba mov și fața ușor cutată. Este originar din China, are o înălțime de 46–56 cm și o greutate cuprinsă între 20–32 kg. Speranța de viață a rasei este de 10-14 ani. Face parte din grupa Non-Sporting.</p>
 
@@ -184,7 +185,7 @@ div.desc {
 
 <p id="p">Chow-Chow-ul a fost prima dată adus în Anglia la sfârșitul secolului al XIX-lea. Acesta a devenit popular după ce Regina Victoria și-a arătat interesul pentru această rasă. După aceea a a ajuns în Statele Unite la începutul anilor 1900. Chow-Chow-ul a fost rapid acceptat în American Kennel Club în 1903, ca membru al grupei Non-sporting.</p>
 
-<div id="im2"><img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\chowchow4.jpg" width=400px; height=300px;> </div>
+<div id="im2"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/chowchow4.jpg" width=400px; height=300px;> </div>
 
 <li id="l2">Descriere</li>
 <div class="row">
@@ -206,13 +207,13 @@ div.desc {
 </div>
 </div>
 
-<div id="im1"><img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\chowchow3.jpg" width=400px; height=250px;> </div>
+<div id="im1"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/chowchow3.jpg" width=400px; height=250px;> </div>
 
 <li id="l1">Personalitate</li>
 <p id="p">Este un câine foarte retras, distant și nu suportă afecțiunea în exces. Este calm și îi place să facă ce vrea. Cu toate acestea, este apropiat de stăpân și îi va fi loial. Chiar dacă este afectuos cu toți membrii familiei, o singură persoană va fi considerată stăpânul său. Se înțelege bine cu copiii, dar nu dacă aceștia au vârste foarte mici, pentru că nu suportă să fie necăjit.</p>
 <p id="p">În ceea ce privește relația cu persoanele străine, Chow-Chow poate fi chiar agresiv. Este un câine teritorial și curajos și își va apăra stăpânul în orice situație. Nu acceptă nici prezența altor câini sau a altor animale.</p>
 
-<div id="im2"><img src="C:\Users\marru\Documents\Scoala\Info\LucrareDiploma\poze caini\chowchow2.jpg" width=400px; height=300px;> </div>
+<div id="im2"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/chowchow2.jpg" width=400px; height=300px;> </div>
 
 <li id="l2">Problemele de sănătate</li>
 <p id="p">Chow-Chow este un câine de talie medie, cu un corp robust și indesat. Capul este mare, botul scurt, iar fața este acoprerită de pliuri. Această rasă se deosebește de celelalte rase prin faptul că are limba albastră. De asemenea, labele picioarelor sunt rotunde, ca la pisici. Ochii sunt micuți, negri și băgați în orbite. Și urechile sunt mici și ridicate. Chow-Chow își ține coada răsucită pe spate. Are o blană din două straturi, unul scurt și pufos și cel de la suprafață lung, moale și des. În plus, are o coamă în jurul gâtului. Chow-Chow trebuie periat constant, mai ales atunci când năpârlește.</p> 

@@ -8,14 +8,11 @@
 </head>
 <body>
 <div class="topnav">
-<a href="http://info.tm.edu.ro:8088/~mguduleasa/LucrareDiploma/acasa.php" class="button">Acasa</a>
-
-<a href="http://info.tm.edu.ro:8088/~mguduleasa/LucrareDiploma/anatomie.php" class="button">Anatomie</a>
-
-
-<a href="http://info.tm.edu.ro:8088/~mguduleasa/LucrareDiploma/rase.php" class="button">Rase</a>
-
-<a href="http://info.tm.edu.ro:8088/~mguduleasa/LucrareDiploma/contact.php" class="button">Contact</a>
+<a href="http://info.tm.edu.ro:8088/~mcraiu/acasa.php" class="button">Acasa</a>
+<a href="http://info.tm.edu.ro:8088/~mcraiu/anatomie.php" class="button">Anatomie</a>
+<a href="http://info.tm.edu.ro:8088/~mcraiu/rase.php" class="button">Rase</a>
+<a href="http://info.tm.edu.ro:8088/~mcraiu/contact.php" class="button">Contact</a>
+<input type="text" placeholder="Search..">
 </div>
 <style>
 body.home { 
@@ -205,8 +202,7 @@ unde sunt populari, câinii afgani sunt participanți frecvenți la evenimente d
 </div>
   <div class="column">
 <p id="pp">Temperament:</p>
-<p id="p">Distant, Demn, Vesel, Independent, Comic
-</p>
+<p id="p">Distant, Demn, Vesel, Independent, Comic</p>
 <p id="pp">Dresaj:</p>
 <p id="p">„inteligență de ascultare” relativ lentă</p>
 <p id="pp">Culori:</p>

@@ -176,7 +176,7 @@ div.desc {
 
 <h id="h1"><center> Beagle </center></h>
 
-<div class="i" id="im1"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/akitainu1.jpg" style=width=500px; height=400px;> </div>
+<div class="i" id="im1"><img src="https://www.animalepierdute.ro/wp-content/uploads/2019/06/Un-adult-din-rasa-Beagle-214x300.jpg" style=width=500px; height=400px;> </div>
 
 <p id="p">Beagle este o rasă de câini cu corp masiv, robust, craniu lat, urechi mari, ochi cu expresie rugătoare, blană de lungime medie, picioare puternice, asemănător cu Foxhoundul englez. Rasa este de origine din Anglia, exemplarele au 25–40 cm înălțime, greutate de 9–17 kg și trăiesc 12–15 ani. Beagle mai este un concurent ai rasei jagdterrier.</p>
 
@@ -184,7 +184,7 @@ div.desc {
 <p id="p">Sunt mai multe teorii referitoare la apariția rasei Beagle. Una dintre ele precizează că preocuparea pentru dezvoltarea acestei rase s-a manifestat pentru prima dată în Anglia, în secolul al XVI-lea. Regina Elisabeta I (1533-1603) a îndrăgit foarte mult o varietate de talie mică a acestei rase, așa numiții „Pocket Beagle”, din care creștea o întreagă haită. Și astăzi, varietatea mai mică a rasei (exemplarele până în 25 de centrimetri înălțime la greabăn) poartă numele reginei. De-a lungul secolului al XVII-lea rasa a suferit modificări prin încrucișarea cu exemplare de Terrier Englezesc.</p>
 <p id="p">O altă teorie susține că primul Beagle a apărut în Grecia Antică, în jurul secolului al V-lea î.Hr. Primele atestări apar în scrierile lui Xenophon care menționa folosirea unui câine la vânătoarea de animale mici, adulmecându-le. Istoria lor continuă odată cu apariția romanilor, care au prețuit acești câini și care i-au răspândit pe teritoriul întregii Europe, în special în zonele care astăzi aparțin de Imperiul Britanic. În Anglia, William Cuceritorul ar fi adus primul câine Beagle, pe numele său Talbot, prin secolul XI. Primele informații precise despre această rasă apar în secolul al XVI-lea.</p>
 
-<div id="im2"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/akitainu2.jpg" width=400px; height=300px;> </div>
+<div id="im2"><img src="https://www.animalepierdute.ro/wp-content/uploads/2019/06/Un-c%C3%A2ine-din-rasa-Beagle-pe-plaj%C4%83-extrem-de-atent-%C5%9Fi-de-interesat-la-ce-se-%C3%AEnt%C3%A2mpl%C4%83-%C3%AEn-jurul-s%C4%83u-300x225.jpg" width=400px; height=300px;> </div>
 
 <li id="l2">Descriere</li>
 <div class="row">
@@ -206,7 +206,7 @@ div.desc {
 </div>
 </div>
 
-<div id="im1"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/akitainu3.jpg" width=400px; height=300px;> </div>
+<div id="im1"><img src="https://www.animalepierdute.ro/wp-content/uploads/2019/06/Un-Beagle-f%C4%83c%C3%A2nd-ceea-ce-%C5%9Ftie-mai-bine-s%C4%83-fac%C4%83-un-c%C3%A2ine-din-aceast%C4%83-ras%C4%83-alearg%C4%83-300x200.jpg" width=400px; height=300px;> </div>
 
 <li id="l1">Personalitate</li>
 <p id="p">Este un câine vioi și jucăuș și este foarte atașat de stăpân. Este bine de știut și faptul că se împrietenește foarte repede cu copiii. De asemenea, firea sa sociabilă îl va face să nu aibă niciun fel de probleme nici cu persoanele străine, deci nu vă puneţi niciodată baza într-un Beagle să vă apare de hoţi, căci şi dacă va intra un străin la el în curte nu va avea absolut nicio problemă.</p>
@@ -215,7 +215,7 @@ div.desc {
 
 <p id="p">Puiul va avea tendința de a pleca singur în momentul în care simte un miros care să-i atragă atenția. Dacă nu va fi dresat, acesta nu va răspunde atunci când va fi strigat și se va ocupa de activitatea care îi place. Este indicat să aibă cât mai multe jucării și oase pe care să le roadă, pentru a nu distruge ce găsește în casă, în cazul în care nu aveţi suficient timp să îl scoatei afară, la aer şi mişcare.</p>
 
-<div id="im2"><img src="http://info.tm.edu.ro:8088/~mcraiu/poze%20caini/akitainu4.jpg" width=400px; height=300px;> </div>
+<div id="im2"><img src="https://www.animalepierdute.ro/wp-content/uploads/2019/06/Rare-sunt-momentele-%C3%AEn-care-ve%C5%A3i-vedea-un-c%C3%A2ine-Beagle-c%C4%83-st%C4%83-lini%C5%9Ftit-300x200.jpg" width=400px; height=300px;> </div>
 
 <li id="l2">Problemele de sănătate</li>
 <p id="p">Nu are mari pretenții, dar trebuie hrănit cu produse de înaltă calitate. Se pretează atât la hrana uscată, cât și la hrană umedă și semi-umedă (din conservă). Năpârlește pe toată durata anului, destul de consistent, cu accent la schimbarea sezoanelor. Sunt câini robuști, rezistenți, fără probleme deosebite de sănătate. Cataracta, o boală considerată ereditară la această rasă. Manifestă uneori afecțiuni ale coloanei, pe care o pun deseori la încercare, fiind atletici și plini de energie. Una dintre cele mai grave probleme ce o poate întâmpina un Beagle, pe măsură ce îmbătrânește, o reprezintă obezitatea, pentru un câine de talia sa e foarte pofticios și mâncăcios.</p>
