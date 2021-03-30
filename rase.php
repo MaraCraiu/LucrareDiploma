@@ -86,7 +86,7 @@
 </div>
 
 <div class="gallery">
-  <a href=http://info.tm.edu.ro:8088/~mguduleasa/LucrareDiploma/Rase/Yorkshire Terrier.php>
+  <a href=http://info.tm.edu.ro:8088/~mguduleasa/LucrareDiploma/Rase/Yorkshire_Terrier.php>
     <img src="poze caini\Yorkshire Terrier.jpg" alt="Yorkshire Terrier">
   </a>
   <div class="desc">Yorkshire Terrier</div>
